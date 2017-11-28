@@ -1,0 +1,19 @@
+{
+  "name": "trim-lines-loader",
+  "version": "0.2.1",
+  "description": "Remove spaces and tabs around lines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riim/trim-lines-loader.git"
+  },
+  "author": "Dmitry Vibe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Riim/trim-lines-loader/issues"
+  },
+  "homepage": "https://github.com/Riim/trim-lines-loader#readme"
+}
